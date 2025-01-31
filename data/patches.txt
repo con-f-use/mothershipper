@@ -1,0 +1,100 @@
+00  “I’m Not A Rocket Scientist / But You’re An Idiot”
+01  Medic Patch (Skull and Crossbones over Cross)
+02  “Don’t Run You’ll Only Die Tired” Backpatch
+03  Red Shirt Logo
+04  Blood Type (Reference Patch)
+05  “Do I LOOK Like An Expert?”
+06  Biohazard Symbol
+07  Mr. Yuck
+08  Nuclear Symbol
+09  “Eat The Rich”
+10  “Be Sure: Doubletap”
+11  Flame Emoji
+12  Smiley Face (Glow in the Dark)
+13  “Smile: Big Brother is Watching”
+14  Jolly Roger
+15  Viking Skull
+16  “APEX PREDATOR” (Sabertooth Skull)
+17  Pin-Up Model (Ace of Spades)
+18  Queen of Hearts
+19  Security Guard
+20  “LONER”
+21  “Front Towards Enemy” (Claymore Mine)
+22  Pin-Up Model (Riding Missile)
+23  FUBAR
+24  “I’m A (Love) Machine”
+25  Pin-Up Model (Mechanic)
+26  “HELLO MY NAME IS:”
+27  “Powered By Coffee”
+28  “Take Me To Your Leader” (UFO)
+29  “DO YOUR JOB”
+30  “Take My Life (Please)”
+31  “Upstanding Citizen”
+32  “Allergic To Bullshit” (Medical Style Patch)
+33  "Fix Me First" (Caduceus)
+34  “I Like My Tools Clean / And My Lovers Dirty”
+35  “The Louder You Scream the Faster I Come” (Nurse Pin-Up)
+36  HMFIC (Head Mother Fucker In Charge)
+37  Dove in Crosshairs
+38  Chibi Cthulhu
+39  “Welcome to the DANGER ZONE”
+40  Skull and Crossed Wrenches
+41  Pin-Up Model (Succubus)
+42  “DILLIGAF?”
+43  “DRINK / FIGHT / FUCK”
+44  “Work Hard / Party Harder”
+45  Mudflap Girl
+46  Fun Meter (reads: Bad Time)
+47  “GAME OVER” (Bride & Groom)
+48  Heart
+49  “IMPROVE / ADAPT / OVERCOME”
+50  “SUCK IT UP”
+51  “Cowboy Up” (Crossed Revolvers)
+52  “Troubleshooter”
+53  NASA Logo
+54  Crossed Hammers with Wings
+55  “Keep Well Lubricated”
+56  Soviet Hammer & Sickle
+57  “Plays Well With Others”
+58  “Live Free and Die”
+59  “IF I’M RUNNING KEEP UP” Backpatch
+60  “Meat Bag”
+61  “I Am Not A Robot”
+62  Red Gear
+63  “I Can’t Fix Stupid”
+64  “Space IS My Home” (Sad Astronaut)
+65  All Seeing Eye
+66  “Solve Et Coagula” (Baphomet)
+67  “All Out of Fucks To Give” (Astronaut with Turned Out Pockets)
+68  “Travel To Distant Places / Meet Unusual Things / Get Eaten”
+69  BOHICA (Bend Over Here It Comes Again)
+70  “I Am My Brother’s Keeper”
+71  “Mama Tried”
+72  Black Widow Spider
+73  “My Other Ride Married You”
+74  “One Size Fits All” (Grenade)
+75  Grim Reaper Backpatch
+76  отъебись (“Fuck Off,” Russian)
+77  “Smooth Operator”
+78  Atom Symbol
+79  “For Science!”
+80  “Actually, I AM A Rocket Scientist”
+81  “Help Wanted”
+82  Princess
+83  “NOMAD”
+84  “GOOD BOY”
+85  Dice (Snake Eyes)
+86  “#1 Worker”
+87  “Good” (Brain)
+88  “Bad Bitch”
+89  “Too Pretty To Die”
+90  “Fuck Forever” (Roses)
+91  Icarus
+92  ”Girl’s Best Friend” (Diamond)
+93  Risk of Electrocution Symbol
+94  Inverted Cross
+95  “Do You Sign My Paychecks?” Backpatch
+96  “I ♥ Myself”
+97  Double Cherry
+98  “Volunteer”
+99  Poker Hand: Dead Man’s Hand (Aces Full Of Eights)

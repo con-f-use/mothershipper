@@ -1,0 +1,11 @@
+# Roll   cause for dismissal                                        training
+0  [Secret] Company plant. Roll again for a cover.                  Abattoir Family Co. Term circumvention monitoring and espionage experience.
+1  Moonlighting. Fined and indebted 1d100mcr.                       Westies Crime Syndicate. Hostage negotiation and privateering database entry.
+2  Undisclosed addiction (roll 1d10 for a Lawyer Database Vice).    Blackshield Mercenary Group. Treaty brokerage, Marine cadres respond for favors.
+3  Negotiated terms with a Customer.                                Arbitration Limited. Prosecutorial and breach specialist. Get-Out-Of-Jail-Free Card.
+4  Suspected sale of proprietary information.                       GreenStar Logistics. Salvage evaluator, lifetime free transportation voucher.
+5  Negligent oversight of contract infractions.                     Public Teamsters Union. Employment and contractor law, hated by Teamsters.
+6  Illicit consort with competing corporate personnel.              University of Idalia Minor. Intellectual property and copyright, gain 1 Trained Skill.
+7  Refusal to terminate party found in breach.                      Hylix-Ventross Systems. Patent litigation, classified scientific knowledge.
+8  Delinquently unfavorable brokerage in treaty negotiations.       Upstairs Corp. Estate and property transfers. Luxury safehouse locations known.
+9  [Voluntary] Passed over for promotion. They’ll pay for this.     Publico. Personal Sovereignty researcher. Too many secrets (1mcr bounty on head).

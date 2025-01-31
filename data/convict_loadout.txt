@@ -1,0 +1,10 @@
+00  Cheap Suit (AP 1), Knives (as Scalpel), Lint
+01  Asylum Uniform (AP 1), Stun Baton, Broken Mop Handle (as Crowbar), a syringe full of drain cleaner
+02  White Prison Jumpsuit (AP 1), Concealed Lockpick Set, Bite-Proof Mask, Charcoal & Sketch Paper
+03  Tank Top & Camo Pants (AP 1), Nightvision Cybermod (installed), Ornamental Blades (as Vibechete), Menthol Kools (20)
+04  Standard Prison Attire (AP 1), Concealed Explosives & Detonator, a Manifesto, Pet Mouse
+05  Standard Prison Attire (AP 1), Portable Terminal Computer, Slicksocket (installed), Cigarette Lighter
+06  Standard Prison Attire (AP 1), Concealed Stimpak (x5), Concealed Pain Pills (x5), Shiv (as Scalpel)
+07  Prison Guard's uniform (AP 1), Stun Baton, Handcuffs, Flashlight, Short Range Comms
+08  Hazard Suit marked 'Prisoner' (AP 5), Pick Axe (as Boarding Axe), Mag-boot restraints, Personal Locator (implanted)
+09  Penal Battalion Standard Battle Dress (AP 7), SMG (1 mag), Radiation Pills (x5), Personal Locator (implanted)

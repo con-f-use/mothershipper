@@ -1,0 +1,10 @@
+00  Prison Jumpsuit (AP 1), Crowbar, Personal Locator, Stimpak x5
+01  Advanced Battle Dress MkII (AP 12), Emergency Beacon, Synthetic Cat
+02  Reinforced Formal Wear (AP 6), Briefcase Gun (3d10 DMG, 3 mags), Automed x3
+03  Hazard Suit (AP 5), AI Personality Core (plus EULA), Cybernetic Diagnostic Scanner
+04  Vaccsuit (AP 3), Vibechete, Exoplanet Land Claim, 3 Prepaid Mercenary Contracts
+05  Standard Battle Dress (AP 7), SMG (2 mags), Long-Range Comms, Laser Designator
+06  Judicial Robe (AP 2), Titanium Gavel (2d10 DMG), Frozen Liver, Pain Pills x100
+07  Formal Wear (AP 1), Revolver (1 rnd), Kompromat on a PC, Body Cam, Radio Jammer
+08  Formal Wear (AP 1), Classified Documents, VIP Key Card, 5mcr Death Indemnity Policy
+09  Tracksuit (AP 1), Frag Grenade, Mylar Blanket, Testament of Personal Sovereignty

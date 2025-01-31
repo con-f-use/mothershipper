@@ -1,0 +1,10 @@
+00  Vaccsuit (AP 3), Smart Rifle (2 mags), Infrared Goggles, Mylar Blanket
+01  Vaccsuit (AP 3), Revolver (12 rounds), Long-range Comms, Satchel
+02  Hazard Suit (AP 5), Revolver (6 rounds), Defibrillator, First Aid Kit, Flashlight 
+03  Hazard Suit (AP 5), Foam Gun (2 charges), Sample Collection Kit, Screwdriver (as Assorted Tools)
+04  Standard Battle Dress (AP 7), Tranq Pistol (3 shots), Paracord (100m)
+05  Standard Crew Attire (AP 1), Stun Baton, Small Pet (organic).
+06  Standard Crew Attire (AP 1), Scalpel, Bioscanner
+07  Standard Crew Attire (AP 1), Frag Grenade, Pen Knife
+08  Manufacturer Supplied Attire (AP 1), Jump-9 Ticket (destination blank)
+09  Corporate Attire (AP 1), VIP Corporate Key Card

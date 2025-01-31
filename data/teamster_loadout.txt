@@ -1,0 +1,10 @@
+00  Vaccsuit (AP 3), Laser Cutter (1 extra battery), Patch Kit (x3), Toolbelt with Assorted Tools
+01  Vaccsuit (AP 3), Revolver (6 rounds), Crowbar, Flashlight
+02  Vaccsuit (AP 3), Rigging Gun (1 shot), Shovel, Salvage Drone
+03  Hazard Suit (AP 5), Vibechete, Spanner, Camping Gear, Water Filtration Device
+04  Heavy Duty Work Clothes (AP 2), Explosives & Detonator, Cigarettes
+05  Heavy Duty Work Clothes (AP 2), Drill (as Assorted Tools), Paracord (100m), Salvage Drone
+06  Standard Crew Attire (AP 1), Combat Shotgun (4 rounds), Extension Cord (20m), Cat (pet)
+07  Standard Crew Attire (AP 1), Nail Gun (32 rounds), Head Lamp, Toolbelt with Assorted Tools, Lunch Box
+08  Standard Crew Attire (AP 1), Flare Gun (2 rounds), Water Filtration Device, Personal Locator, Subsurface Scanner
+09  Lounge Wear (AP 1), Crowbar, Stimpak, Six Pack of Beer

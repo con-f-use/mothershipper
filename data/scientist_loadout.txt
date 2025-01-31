@@ -1,0 +1,10 @@
+00  Hazard Suit (AP 5), Tranq Pistol (3 shots), Bioscanner, Sample Collection Kit
+01  Hazard Suit (AP 5), Flamethrower (1 charge), Stimpak, Electronic Tool Set
+02  Vaccsuit (AP 3), Rigging Gun, Sample Collection Kit, Flashlight, Lab Rat (pet)
+03  Vaccsuit (AP 3), Foam Gun (2 charges), Foldable Stretcher, First Aid Kit, Radiation Pills (x5)
+04  Lab Coat (AP 1), Screwdriver (as Assorted Tools), Medscanner, Vaccine (1 dose)
+05  Lab Coat (AP 1), Cybernetic Diagnostic Scanner, Portable Computer Terminal
+06  Scrubs (AP 1), Scalpel, Automed (x5), Oxygen Tank with Filter Mask
+07  Scrubs (AP 1), Vial of Acid, Mylar Blanket, First Aid Kit
+08  Standard Crew Attire (AP 1), Utility Knife (as Scalpel), Cybernetic Diagnostic Scanner, Duct Tape
+09  Civilian Clothes (AP 1), Briefcase, Prescription Pad, Fountain Pen (Poison Injector)

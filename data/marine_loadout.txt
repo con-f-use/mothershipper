@@ -1,0 +1,10 @@
+00  Tank Top and Camo Pants (AP 1), Combat Knife (as Scalpel DMG [+]), Stimpak (x5)
+01  Advanced Battle Dress (AP 10), Flamethrower (4 shots), Boarding Axe
+02  Standard Battle Dress (AP 7), Combat Shotgun (4 rounds), Rucksack, Camping Gear
+03  Standard Battle Dress (AP 7), Pulse Rifle (3 mags), Infrared Goggles
+04  Standard Battle Dress (AP 7), Smart Rifle (3 mags), Binoculars, Personal Locator
+05  Standard Battle Dress (AP 7), SMG (3 mags), MRE (x7)
+06  Fatigues (AP 2), Combat Shotgun (2 rounds), Dog (pet), Leash, Tennis Ball
+07  Fatigues (AP 2), Revolver (12 rounds), Frag Grenade
+08  Dress Uniform (AP 1), Revolver (1 round), Challenge Coin
+09  Advanced Battle Dress (AP 10), General-Purpose Machine Gun (1 Can of ammo), HUD

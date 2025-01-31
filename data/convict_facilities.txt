@@ -1,0 +1,12 @@
+# Roll  Crime                 Prefix    Suffix      Facility
+# =============================================================
+0  Unionising                 Beyazid   Spar        Cryo-Gulag
+1  Ultra-High Treason         Deep      Tau         PsyStockade
+2  Smuggling                  Zalmoxis  IV          Off-World Containment Facility
+3  Low Social Credit Score    Black     Orpheus     Android(AI) Penal Colony
+4  Hacking                    Tylis     Dome        Digital Penitentiary
+5  Weird Science              Praxis    Corp.       Gene Asylum
+6  Oxygen Theft               Aurelia   Volans      Asphyxia Brig
+7  Piracy                     Forlorn   Castle      Juvenile-Prison Ship
+8  Civil Disobedience         Moroi     Tech        e-Pharma Detention Centre
+9  Murder                     Famine    Tartarus    Cyber Supermax
