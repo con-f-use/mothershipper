@@ -50,8 +50,8 @@ classd = {
     "Scientist": "+10 Int; +5 to one Stats; +30 Sanity; 1M, 1T",
     "Teamster": "+5 Stats; +10 to Saves; Industrial Equipment, Zero-G, 1T, 1E",
     "Android": "+20 Int; -10 to one Stat; +60 Fear; +1W; Linguistics, Computers, Mathematics, 1E, 2T",
-    "Lawyer": "+10 Int; +5 Str; +20 Bdy; +10 San; Min Stress: 10, any over 20 increases a save; Linguistics, Rimwise, Jury-Rigging, Law (+20), 1T",
-    "Convict": "+20 Spd; +30 San; -5 to one Save; Saves made close to friendly PCs [-]; Jury-Rigging, Rimwise, 1T, 1E",
+    "Lawyer": "+10 Int; +5 Str; +20 Bdy; +10 San; Min-Stress: 10, any over 20 increases a Save; Linguistics, Rimwise, Jury-Rigging, Law (+20), 1T",
+    "Convict": "+20 Spd; +30 San; -5 to one Save; Fear Saves made close to friendly PCs [-]; Jury-Rigging, Rimwise, 1T, 1E",
 }
 classes = list(classd)
 
