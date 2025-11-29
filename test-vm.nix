@@ -27,4 +27,8 @@ in
     jm = "sudo netstat -tulpen; sudo journalctl -e -u uwsgi.service";
     cm = "curl http://127.0.0.1:${toString shipperPort}?num_chars=10";
   };
+
+  # dummies needed to pass checks not relevant to vm-usage
+  fileSystems."/".device = "/dev/null";
+  boot.loader.grub.device = "/dev/null";
 }
